@@ -101,7 +101,6 @@ header h1 {
 }
 
 .certifications li::before {
-    content: "•";
     color: #3498db;
     font-size: 1.2rem;
     position: absolute;
