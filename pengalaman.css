@@ -1,0 +1,40 @@
+/* Tambahkan ini ke file home.css Anda */
+
+/* Style untuk halaman pengalaman */
+.pengalaman-item {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.pengalaman-item h3 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.periode, .institusi {
+    font-style: italic;
+    color: #7f8c8d;
+    margin-bottom: 0.5rem;
+}
+
+.pengalaman-item ul {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.pengalaman-item li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Style untuk aside di halaman pengalaman */
+aside ul {
+    padding-left: 1.5rem;
+}
+
+aside li {
+    margin-bottom: 0.8rem;
+}
