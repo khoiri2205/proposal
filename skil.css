@@ -290,3 +290,21 @@ footer {
 body, header, nav a, section, article, aside, footer, .skill-bar, .skill-tag {
     transition: all 0.3s ease;
 }
+
+
+.cert-link {
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.cert-link:hover {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+.pdf-icon {
+    font-size: 0.9em;
+}
